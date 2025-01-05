@@ -1,5 +1,7 @@
 # yogurt-choco-scone
 
+[Documentation (Japanese)](https://yogurt-choco-scone.readthedocs.io/ja/latest/)
+
 ### Installation (for Users)
 
 #### From PyPI

@@ -1,4 +1,9 @@
 # Yogurt Choco Scone
 
-See the function and class references below:  
+現在 PyPI 未登録のため、GitHub からインストールしてください。
+```
+pip install git+https://github.com/CookieBox26/yogurt-choco-scone
+```
+
+関数リファレンスは以下です：  
 [Reference](reference.md)
