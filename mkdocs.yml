@@ -1,0 +1,23 @@
+site_name: "Yogurt Choco Scone"
+theme:
+  name: material
+  palette:
+    primary: green
+    accent: green
+nav:
+  - Home: index.md
+  - Reference: reference.md
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/CookieBox26/yogurt-choco-scone
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            heading_level: 3
+            show_root_heading: true
+            docstring_section_style: list
+            show_source: false
