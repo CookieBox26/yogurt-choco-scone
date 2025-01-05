@@ -4,6 +4,8 @@ theme:
   palette:
     primary: green
     accent: green
+extra_css:
+  - custom.css
 nav:
   - Home: index.md
   - Reference: reference.md
