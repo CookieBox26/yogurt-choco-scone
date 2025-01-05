@@ -11,7 +11,7 @@ Currently under preparation.
 #### From GitHub
 
 ```
-pip install git+https://github.com/CookieBox26/yogurt-choco-scone
+pip install git+https://github.com/CookieBox26/yogurt-choco-scone -U
 ```
 
 #### From Local Source Code
